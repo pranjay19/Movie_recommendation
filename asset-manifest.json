@@ -1,15 +1,15 @@
 {
   "main.css": "/Movie_recommendation/static/css/main.7cab11a1.chunk.css",
-  "main.js": "/Movie_recommendation/static/js/main.94ed4352.chunk.js",
-  "main.js.map": "/Movie_recommendation/static/js/main.94ed4352.chunk.js.map",
+  "main.js": "/Movie_recommendation/static/js/main.2e7953b5.chunk.js",
+  "main.js.map": "/Movie_recommendation/static/js/main.2e7953b5.chunk.js.map",
   "static/css/1.b09f0946.chunk.css": "/Movie_recommendation/static/css/1.b09f0946.chunk.css",
   "static/js/1.6822a5a3.chunk.js": "/Movie_recommendation/static/js/1.6822a5a3.chunk.js",
   "static/js/1.6822a5a3.chunk.js.map": "/Movie_recommendation/static/js/1.6822a5a3.chunk.js.map",
   "runtime~main.js": "/Movie_recommendation/static/js/runtime~main.d3bf394d.js",
   "runtime~main.js.map": "/Movie_recommendation/static/js/runtime~main.d3bf394d.js.map",
-  "static/css/main.7cab11a1.chunk.css.map": "/Movie_recommendation/static/css/main.7cab11a1.chunk.css.map",
   "static/css/1.b09f0946.chunk.css.map": "/Movie_recommendation/static/css/1.b09f0946.chunk.css.map",
+  "static/css/main.7cab11a1.chunk.css.map": "/Movie_recommendation/static/css/main.7cab11a1.chunk.css.map",
   "index.html": "/Movie_recommendation/index.html",
-  "precache-manifest.af5d7cfb4c778c1a9ebdee5029d7530a.js": "/Movie_recommendation/precache-manifest.af5d7cfb4c778c1a9ebdee5029d7530a.js",
+  "precache-manifest.82955afaaa81f5b86efc58b3507cfc7a.js": "/Movie_recommendation/precache-manifest.82955afaaa81f5b86efc58b3507cfc7a.js",
   "service-worker.js": "/Movie_recommendation/service-worker.js"
 }
