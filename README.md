@@ -55,11 +55,11 @@ This is a movie recommendation app built with React and Redux. It allows users t
 
 This app uses the following API:
 
-- [The Movie Database (TMDb) API](https://developers.themoviedb.org/3/getting-started/introduction): Provides movie data and information
+- [The Movie Database (IMDb) API](https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&language=en-US&sort_by=popularity.desc): Provides movie data and information
 
 ## Credits
 
-The movie data and images are provided by [The Movie Database (TMDb)](https://www.themoviedb.org/).
+The movie data and images are provided by [The Movie Database (IMDb)](https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&language=en-US&sort_by=popularity.desc).
 
 ## License
 
